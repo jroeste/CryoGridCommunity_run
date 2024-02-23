@@ -7,7 +7,7 @@ init_format = 'EXCEL3D'; %choose the option corresponding to the parameter file 
 
 result_path = '../CryoGridCommunity_results/';  
 
-run_name = 'reference_run'; %run_name = name of parameter file (without file extension) and name of subfolder (in result_path) within which it is located
+run_name = 'heatConduction'; %run_name = name of parameter file (without file extension) and name of subfolder (in result_path) within which it is located
 
 constant_file = 'CONSTANTS_excel'; %filename of file storing constants
 
